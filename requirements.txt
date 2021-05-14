@@ -5,5 +5,5 @@ Keras
 gevent
 pillow
 h5py
-tensorflow 2.0
+tensorflow
 gunicorn
