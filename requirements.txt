@@ -5,5 +5,4 @@ Keras
 gevent
 pillow
 h5py
-tensorflow>=1.12.1
 gunicorn
